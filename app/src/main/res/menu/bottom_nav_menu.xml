@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/inicio"
+        android:icon="@drawable/baseline_house_24"
+        android:title="Inicio" />
+    <item
+        android:id="@+id/citas"
+        android:icon="@drawable/citas"
+        android:title="Citas" />
+    <item
+        android:id="@+id/historial"
+        android:icon="@drawable/historial"
+        android:title="Historial" />
+    <item
+        android:id="@+id/perfil"
+        android:icon="@drawable/perfil"
+        android:title="Perfil" />
+</menu>
